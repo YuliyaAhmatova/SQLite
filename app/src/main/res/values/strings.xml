@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SQLite</string>
+    <string name="data_base">База данных</string>
+    <string name="start">Начать</string>
+    <string name="exit">Exit</string>
+    <string name="name">Введите имя</string>
+    <string name="phone">Введите номер телефона</string>
+    <string name="add">Сохранить данные</string>
+    <string name="print">Получить данные</string>
+    <string name="clear">Очистить таблицу</string>
+    <string name="name_tabl">Имя</string>
+    <string name="number_tabl">Номер</string>
+    <string name="role_tabl">Должность</string>
+    <string name="n">\n\n</string>
+</resources>
